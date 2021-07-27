@@ -1,0 +1,9 @@
+dataclasses
+dicom-factory
+numpy>=1.19.0
+Pillow==8.1.1
+torch>=1.5.0
+torchvision>=0.6.0
+typing-extensions>=3.7.4.3
+ttach
+tqdm
